@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Paris", "Madrid", "Rome"],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": ["Kigali", "Kampala", "Nairobi", "Dodoma"],
+    "correct_answer": "Nairobi"
+  },
+  {
+    "question": "Who directed the movie Inception?",
+    "options": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "James Cameron"
+    ],
+    "correct_answer": "Christopher Nolan"
+  },
+  {
+    "question": "Which one of the following is not a Python data type?",
+    "options": ["list", "tuple", "set", "table"],
+    "correct_answer": "table"
+  }
+]
